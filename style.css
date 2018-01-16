@@ -31,6 +31,7 @@ a:hover {
   color: black;
 }
 
-.padrt {
-  padding-right: 10%;
+.linkspc {
+  display: flex;
+  justify-content: space-around;
 }
