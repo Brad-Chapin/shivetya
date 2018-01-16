@@ -36,3 +36,11 @@ a:hover {
   justify-content: space-around;
   margin-bottom: 3%;
 }
+
+.bottom {
+  margin-bottom: 3%;
+}
+
+.top {
+  margin-top: 3%;
+}
