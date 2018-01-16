@@ -1,20 +1,32 @@
 html {
   font-family: Helvetica;
   background-color: lightgrey;
-  }
+}
+
+h3 {
+  text-align: center;
+}
+
+li {
+  text-align: center;
+}
 
 ul {
   list-style-type: none;
-  }
+}
+
+a {
+  text-decoration: none;
+}
 
 a:link {
   color: black;
-  }
+}
 
 a:visited {
   color: black;
-  }
+}
 
 a:hover {
   color: black;
- }
+}
