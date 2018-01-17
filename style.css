@@ -44,3 +44,7 @@ a:hover {
 .top {
   margin-top: 3%;
 }
+
+span {
+  font-style: italic;
+}
